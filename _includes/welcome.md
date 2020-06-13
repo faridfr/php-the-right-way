@@ -1,24 +1,14 @@
-# Welcome
+# خوش آمد گویی
 
-There's a lot of outdated information on the Web that leads new PHP users astray,
-propagating bad practices and insecure code. _PHP: The Right Way_ is an easy-to-read,
-quick reference for PHP popular coding standards, links to authoritative tutorials
-around the Web and what the contributors consider to be best practices at the present
-time.
+اطلاعات بسیار قدیمی موجود در وب باعث می‌شود کاربران جدید پی‌اچ‌پی دچار سرگردانی شده و عادت‌های بد کدنوشتن (از جمله نا امن بودن کد) را در آن‌ها ایجاد می‌کند. **پی‌اچ‌پی: از راه درست** یک راهنمای ساده و جامع از بهترین روش‌های کدنویسی در پی‌اچ‌پی است، که به راهنماهای معتبر در وب لینک دارد که اکثر آن‌ها شامل بهترین روش‌های کدنویسی هستند.
 
-_There is no canonical way to use PHP_. This website aims to introduce new PHP
-developers to some topics which they may not discover until it is too late, and aims
-to give seasoned pros some fresh ideas on those topics they've been doing for years
-without ever reconsidering. This website will also not tell you which tools to use, but
-instead offer suggestions for multiple options, when possible explaining the differences
-in approach and use-case.
+**استفاده از پی‌اچ‌پی استاندارد خاصی ندارد.** هدف این وبسایت معرفی موضوعاتی برای توسعه‌دهندگان جدید پی‌اچ‌پی است که تا به حال با آن برخورد نکرده‌اند، همچنین معرفی ایده‌هایی برای افراد حرفه‌ای است که ممکن است سال‌ها از این ایده‌ها استفاده کرده بدون اینکه به یاد داشته باشند. این وبسایت شما را به استفاده از یک ابزار خاص سوق نمی‌دهد بلکه گزینه‌های مختلفی پیش روی شما می‌گذارد، که هر زمان لازم باشد تفاوت بین آن‌ها گفته می‌شود.
 
-This is a living document and will continue to be updated with more helpful information
-and examples as they become available.
+این یک سند فعال و در حال تغییر است که طی بازه‌های زمانی با اطلاعات جدید و کاربردی جایگزین می‌شود.
 
-## Translations
+## ترجمه ها
 
-_PHP: The Right Way_ is translated into many different languages:
+_PHP: از راه درست_ به چندین زبان ترجمه شده است
 
 * [English](http://www.phptherightway.com)
 * [Español](http://phpdevenezuela.github.io/php-the-right-way)
@@ -42,13 +32,13 @@ _PHP: The Right Way_ is translated into many different languages:
 * [简体中文](https://laravel-china.github.io/php-the-right-way/)
 * [繁體中文](https://laravel-taiwan.github.io/php-the-right-way)
 
-## Book
+## کتاب
 
-The most recent version of _PHP: The Right Way_ is also available in PDF, EPUB and MOBI formats. [Go to Leanpub][1]
+آخرین نسخه ی _PHP: از راه درست_ در قالب PDF نیز موجود است , در فرمت های EPUB و MOBI. [رفتن به Leanpub][1]
 
-## How to Contribute
+## چگونگی مشارکت
 
-Help make this website the best resource for new PHP programmers! [Contribute on GitHub][2]
+کمک کنید که این وبسایت را به بهترین مرجع برنامه نویسان PHP تبدیل کنیم [مشارکت در Github][2]
 
 [1]: https://leanpub.com/phptherightway
-[2]: https://github.com/codeguy/php-the-right-way/tree/gh-pages
+[2]: https://github.com/faridfr/php-the-right-way/tree/gh-pages
