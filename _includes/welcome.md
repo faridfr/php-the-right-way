@@ -25,7 +25,7 @@ _PHP: از راه درست_ به چندین زبان ترجمه شده است
 * [Русский язык](http://getjump.github.io/ru-php-the-right-way)
 * [Українська](http://iflista.github.com/php-the-right-way)
 * [العربية](https://adaroobi.github.io/php-the-right-way/)
-* [فارسى](http://novid.github.io/php-the-right-way/)
+* [فارسى](http://faridfr.github.io/php-the-right-way/)
 * [ภาษาไทย](https://apzentral.github.io/php-the-right-way/)
 * [한국어판](http://modernpug.github.io/php-the-right-way)
 * [日本語](http://ja.phptherightway.com)

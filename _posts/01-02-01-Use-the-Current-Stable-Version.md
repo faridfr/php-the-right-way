@@ -1,14 +1,14 @@
 ---
-title:   Use the Current Stable Version (7.4)
+title:    استفاده از آخرین نسخه پایدار (7.4)
 isChild: true
 anchor:  use_the_current_stable_version
 ---
 
-## Use the Current Stable Version (7.4) {#use_the_current_stable_version_title}
+## استفاده از آخرین نسخه پایدار (7.4) {#use_the_current_stable_version_title}
 
-If you are getting started with PHP, start with the current stable release of [PHP 7.4][php-release]. PHP 7.x adds many [new features](#language_highlights) over the older 5.x versions. The engine has been largely re-written, and PHP is now even quicker than older versions.
+اگر با PHP شروع به کار کردید ، با انتشار پایدار فعلی [PHP 7.4][php-release] شروع کنید. PHP 7.x بسیاری از ویژگی های جدید [new features](#language_highlights) را نسبت به نسخه های قدیمی تر 5.x اضافه می کند. این موتور تا حد زیادی دوباره نوشته شده است ، و اکنون PHP حتی سریعتر از نسخه های قدیمی است.
 
-You should try to upgrade to the latest stable version quickly - PHP 5.6 [is already End of Life](http://php.net/supported-versions.php).  Upgrading is easy, as there are not many [backwards compatibility breaks][php74-bc]. If you are not sure which version a function or feature is in, you can check the PHP documentation on the [php.net][php-docs] website.
+شما باید سعی کنید به سرعت آخرین نسخه پایدار را ارتقا دهید - PHP 5.6 [is already End of Life](http://php.net/supported-versions.php) در حال حاضر End of Life است. به روز رسانی آسان است ، زیرا بسیاری [backwards compatibility breaks][php74-bc] از مشکلات سازگاری به عقب وجود ندارد. اگر مطمئن نیستید که کدام نسخه یک عملکرد یا ویژگی است ، می توانید مستندات PHP را در وب سایت [php.net][php-docs] بررسی کنید.
 
 [php-release]: http://php.net/downloads.php
 [php-docs]: http://php.net/manual/
